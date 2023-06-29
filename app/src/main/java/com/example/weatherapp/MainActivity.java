@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     private TextView resultTextView;
     private Button searchButton;
 
-    private static final String API_KEY = "4e4a6d9a7c0a40deb9ffeb3eb155910b";
+    private static final String API_KEY = "Your API Key"; //replace it with your key
 
     private LocationManager locationManager;
     private String currentLocation;
